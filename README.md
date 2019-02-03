@@ -1,5 +1,5 @@
 # protein-ligand
-Project Report for Summer 2019 research project at Indian Institute of Technology, Madras
+Project Report for Summer 2018 research project at Indian Institute of Technology, Madras
 
 Project: Prediction of protein-ligand binding affinity using deep learning models
 
